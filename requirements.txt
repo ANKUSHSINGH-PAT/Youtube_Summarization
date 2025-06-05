@@ -1,4 +1,6 @@
+crewai
 openai
-langchain
-langchain-openai
-pandas
+yt-dlp
+faster-whisper
+ffmpeg-python
+tqdm
